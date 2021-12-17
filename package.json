@@ -1,0 +1,21 @@
+{
+  "name": "telegram-signals-to-binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "input": "^1.0.1",
+    "node-telegram-bot-api": "^0.56.0",
+    "telegram": "^2.1.0"
+  }
+}
