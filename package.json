@@ -14,8 +14,11 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "app-root-path": "^3.0.0",
     "input": "^1.0.1",
+    "node-binance-api": "^0.13.1",
     "node-telegram-bot-api": "^0.56.0",
-    "telegram": "^2.1.0"
+    "telegram": "^2.1.0",
+    "winston": "^3.3.3"
   }
 }
